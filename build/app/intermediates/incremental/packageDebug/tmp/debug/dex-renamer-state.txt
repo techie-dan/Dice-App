@@ -1,0 +1,4 @@
+#Wed May 01 07:28:35 WAT 2024
+base.0=/Users/d_yung/Developer/flutter_projects/tutorial_projects/first_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
