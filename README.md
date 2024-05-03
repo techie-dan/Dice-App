@@ -1,16 +1,18 @@
-## first_app
+# Dicey - Random Dice Roller
 
-A new Flutter project.
+Dicey is the ultimate mobile application for board game enthusiasts, role-playing adventurers, and anyone in need of a random dice roll.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Contributing
 
-A few resources to get you started if this is your first Flutter project:
+Contributions to Dicey are always welcome! If you have any improvements or features you'd like to add, feel free to fork the repository and submit a pull request.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## License
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dicey is released under the MIT License. See the [MIT LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for more details.
+
+
+
+
+
+
